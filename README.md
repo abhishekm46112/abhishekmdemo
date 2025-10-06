@@ -1,2 +1,3 @@
 # abhishekmdemo
-first repository
+This is My First Repository
+Author- Abhishek Mulik
